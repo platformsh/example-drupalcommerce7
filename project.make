@@ -1,6 +1,7 @@
 api = 2
 core = 7.x
 
+; Drupal Commerce Kickstart (7.x)
 projects[commerce_kickstart][type] = core
 
 ; Drush make allows a default sub directory for all contributed projects.
